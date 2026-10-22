@@ -181,6 +181,10 @@ blockquote footer {
     padding: 3rem 2rem;
 }
 
+cards ul{
+    font-family: "Trebuchet MS", Arial, sans-serif;
+}
+
 .cards{
     display: flex;
     flex-wrap: wrap;
